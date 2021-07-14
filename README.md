@@ -18,7 +18,7 @@ c. What controls could be implemented to make cracking much harder for the hacke
 d. What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
 e. What would you change in the password policy to make breaking the passwords harder? 
 
-Leaked Password File:
+Leaked Password File: https://github.com/MDandekar/Goldman-Sach-EVP-Crack-Leaked-Passwords/blob/main/hashes.txt
 
 After the conducted analysis it was determined that organization uses an outdated password hashing algorithm (MD5) which offers very little protection in the event of a password database leaking. It was also determined that the current password policy is not aligned with industry best practices allowing users to have short passwords (6 characters) and reuse usernames as part of passwords.
 
