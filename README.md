@@ -38,7 +38,7 @@ As a result of the analysis the following uplifts are proposed to increase the o
 
 ## Project Reports and Observations
 
-Link: 
+Link: https://github.com/MDandekar/Goldman-Sach-EVP-Crack-Leaked-Passwords/blob/main/GoldmanSachsVIreport.docx
 
 ## Resources
 
