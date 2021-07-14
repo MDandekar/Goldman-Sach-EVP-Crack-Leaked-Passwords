@@ -51,3 +51,5 @@ https://en.wikipedia.org/wiki/Password_cracking#Software
 https://en.wikipedia.org/wiki/Cryptographic_hash_function
 
 https://en.wikipedia.org/wiki/Salt_(cryptography)
+
+https://hashcat.net/hashcat/
